@@ -1,0 +1,8 @@
+title: "Studious Engine"
+email: ""
+description: "A scaffold Jekyll site for studious-engine"
+baseurl: ""
+url: "https://jasoncordingley-ai.github.io/studious-engine"
+theme: minima
+plugins:
+  - jekyll-feed
